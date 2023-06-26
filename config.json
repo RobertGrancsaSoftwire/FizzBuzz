@@ -1,0 +1,40 @@
+{
+  "config": [
+    {
+      "word": "Fizz",
+      "type": "normal",
+      "multiple": 3,
+      "prefix": ""
+    },
+    {
+      "word": "Buzz",
+      "type": "normal",
+      "multiple": 5,
+      "prefix": ""
+    },
+    {
+      "word": "Bang",
+      "type": "normal",
+      "multiple": 7,
+      "prefix": ""
+    },
+    {
+      "word": "",
+      "type": "reverse",
+      "multiple": 17,
+      "prefix": ""
+    },
+    {
+      "word": "Fezz",
+      "type": "prefix",
+      "multiple": 13,
+      "prefix": "B"
+    },
+    {
+      "word": "Bizz",
+      "type": "prefix",
+      "multiple": 19,
+      "prefix": "F"
+    }
+  ]
+}
